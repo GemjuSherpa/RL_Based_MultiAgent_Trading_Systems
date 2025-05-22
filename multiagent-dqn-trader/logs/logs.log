@@ -1,0 +1,7 @@
+2025-05-22 20:46:58,295 - INFO - Logger initialized for download_data
+2025-05-22 20:46:58,295 - INFO - Fetching data for BTC-USD from 2024-01-01 to 2025-04-30 with interval '1h'
+2025-05-22 20:46:59,407 - INFO - Saved data to data/raw/BTC-USD_2024-01-01_to_2025-04-30_1h.csv
+2025-05-22 20:46:59,407 - INFO - Fetching data for AAPL from 2022-01-01 to 2022-12-31 with interval '1d'
+2025-05-22 20:46:59,737 - INFO - Saved data to data/raw/AAPL_2022-01-01_to_2022-12-31_1d.csv
+2025-05-22 20:46:59,737 - INFO - Fetching data for EURUSD=X from 2022-01-01 to 2022-12-31 with interval '1d'
+2025-05-22 20:46:59,999 - INFO - Saved data to data/raw/EURUSD_X_2022-01-01_to_2022-12-31_1d.csv

@@ -1,0 +1,25 @@
+# Core RL and Deep Learning
+tensorflow>=2.12
+numpy>=1.23
+gym==0.26.2
+tensorflow-probability>=0.20
+
+# Data Handling
+pandas>=1.5
+scikit-learn>=1.2
+yfinance>=0.2
+ccxt>=4.0  # optional, for crypto exchange APIs
+
+# Plotting & Visualization
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.14
+
+# Logging & Config
+tensorboard>=2.10
+PyYAML>=6.0
+
+# Jupyter & Dev Tools
+jupyterlab>=3.6
+ipykernel>=6.0
+tqdm>=4.64
