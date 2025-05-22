@@ -1,0 +1,16 @@
+2025-05-22 21:07:00,172 - INFO - Reading raw data from data/raw/BTC-USD_2024-01-01_to_2025-04-30_1d.csv
+2025-05-22 21:07:00,268 - INFO - Initial cleaned shape: (485, 6)
+2025-05-22 21:07:00,325 - INFO - Final shape with indicators: (466, 9)
+2025-05-22 21:07:00,352 - INFO - Saved processed data to data/processed/BTC-USD_2024-01-01_to_2025-04-30_1d.csv
+2025-05-22 21:07:00,352 - INFO - Reading raw data from data/raw/AAPL_2022-01-01_to_2022-12-31_1d.csv
+2025-05-22 21:07:00,364 - INFO - Initial cleaned shape: (251, 6)
+2025-05-22 21:07:00,368 - INFO - Final shape with indicators: (232, 9)
+2025-05-22 21:07:00,371 - INFO - Saved processed data to data/processed/AAPL_2022-01-01_to_2022-12-31_1d.csv
+2025-05-22 21:07:00,371 - INFO - Reading raw data from data/raw/EURUSD_X_2022-01-01_to_2022-12-31_1d.csv
+2025-05-22 21:07:00,375 - INFO - Initial cleaned shape: (260, 6)
+2025-05-22 21:07:00,379 - INFO - Final shape with indicators: (241, 9)
+2025-05-22 21:07:00,382 - INFO - Saved processed data to data/processed/EURUSD_X_2022-01-01_to_2022-12-31_1d.csv
+2025-05-22 21:07:00,382 - INFO - Reading raw data from data/raw/BTC-USD_2024-01-01_to_2025-04-30_1h.csv
+2025-05-22 21:07:00,416 - INFO - Initial cleaned shape: (11639, 6)
+2025-05-22 21:07:00,420 - INFO - Final shape with indicators: (11620, 9)
+2025-05-22 21:07:00,551 - INFO - Saved processed data to data/processed/BTC-USD_2024-01-01_to_2025-04-30_1h.csv

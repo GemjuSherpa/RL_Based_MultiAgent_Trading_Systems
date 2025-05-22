@@ -16,7 +16,7 @@ logger = setup_logger("logs.log", log_file_path)
 logger.info("Logger initialized for download_data")
 
 
-def download_price_data(ticker: str, start_date: str, end_date: str, interval: str = "1h"):
+def download_price_data(ticker: str, start_date: str, end_date: str, interval: str = "1d"):
     """
     Download historical price data using yfinance.
     :param ticker: Symbol (e.g., 'AAPL', 'BTC-USD', 'EURUSD=X')
